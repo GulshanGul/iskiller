@@ -1,0 +1,12 @@
+.ship{
+    font-size: 35px;
+    font-weight: 800;
+    color: #212529;
+    text-align: center;
+}
+.intern{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(236, 125, 125);
+}

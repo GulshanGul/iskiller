@@ -1,0 +1,41 @@
+.groung{
+    height: 300px;
+    width: 300px;
+}
+.text2{
+    font-size: 17px;
+    font-weight: 500;
+    color: rgba(43, 7, 7, 0.527);
+}
+.hy{
+    font-size: 30px;
+    font-weight: 900;
+    color: black;
+}
+.hii{
+    margin-left: 120px
+}
+.bttn{
+    height: 60px;
+    /* margin: 0px; */
+    width: 120px;
+    padding: 10px 8px;
+    /* background-color: rgb(184, 176, 176);
+    color: white; */
+}
+.bttn:hover{
+    /* color: #400b41; */
+    background-color: #8f1a91;
+}
+.colm{
+    box-sizing: border-box;
+}
+.ios{
+    margin-left: 25px;
+}
+.hyy{
+    color: rgb(44, 39, 39);
+    font-size: 30px;
+    font-weight: 800;
+    justify-content: flex-end;
+}

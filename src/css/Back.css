@@ -1,0 +1,31 @@
+.page{
+    /* background-color: #c4afff; */
+    /* background-image: url(../images/01.jpg); */
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 1350px;
+   
+}
+.backgroung{
+    margin-left: 50px;
+   padding: 10px 8px;
+}
+.page1{
+    /* font-size: 50px;
+    font-weight: 900; */
+}
+.text{
+    font-size: 35px;
+    font-weight: 800;
+}
+.text1{
+    font-size: 17px;
+    font-weight: 600;
+}
+.btnn{
+    background-color: rgb(99, 24, 99);
+    width: 155px;
+    height: 40px;
+    color: #ffffff;
+    border-radius: 10px;
+}

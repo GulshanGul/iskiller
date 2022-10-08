@@ -1,0 +1,23 @@
+.pagess{
+    font-size: 26px;
+    font-weight: 800;
+    color: #212529;
+}
+.cont{
+    font-size: 17px;
+    font-weight: 600;
+    color: #6b6b84;
+}
+.cont:hover{
+    color: #98189a;
+}
+.contt{
+    font-size: 17px;
+    font-weight: 600;
+    color: #6b6b84;
+}
+.two{
+    font-size: 17px;
+    font-weight: 600;
+    color: #6b6b84;
+}

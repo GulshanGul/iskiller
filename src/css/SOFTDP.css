@@ -1,0 +1,32 @@
+.form{
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px #ebdfdf;
+    height: 450px;
+    width: 300px;
+    border-radius: 10px;
+}
+.phone{
+    font-size: 20px;
+    font-weight: 800;
+    color: #221638;
+}
+.contact{
+    font-size: 17px;
+    font-weight: 600;
+    color: #6b6b84;
+    margin-left: 25px;
+}
+.tact{
+    font-size: 24px;
+    font-weight: 800;
+    color: #212529;
+}
+.contact:hover{
+    color: rgb(230, 150, 177);
+}
+.one{
+    font-size: 17px;
+    font-weight: 600;
+    color: #6b6b84; 
+    margin-left: 25px;
+}
